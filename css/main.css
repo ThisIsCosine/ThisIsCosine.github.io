@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b578a3;
+  background: #9d3d62;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2297,7 +2297,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("D:/Blog/themes/next/source/images/background.png");
+  background: url("/images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
